@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Day20CustomisedAlertBoxes</string>
+    <string name="congratulation">Congratulations for showing Up Today</string>
+    <string name="android_dev_journey">How is Android Dev Journey Going?</string>
+    <string name="button_good">Too Good</string>
+    <string name="button_feedback">Send Feedback</string>
+    <string name="button_main_screen_heading">Lecture 20 : Learning Customised Alert Boxes</string>
+</resources>
